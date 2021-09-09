@@ -16,6 +16,9 @@ body {
 header{
     background-color: #39a6b2;
     padding: 20px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1 {
